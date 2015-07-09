@@ -23,7 +23,6 @@ mememe(me);
 mememe('me', 'you');
 //=> 'me'
 ```
-```
 
 
 ## License
